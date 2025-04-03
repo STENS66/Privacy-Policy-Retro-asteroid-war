@@ -1,7 +1,7 @@
 # Privacy Policy - Retro-asteroid-war
 Privacy policy for the various versions of the "Retro-asteroid-war" application.
 
-**Version 1.1 - Last updated: 14/03/2025**
+**Version 1.2 - Last updated: 03/04/2025**
 
 ## **Data Collection**
 The "Retro-asteroid-war" application does not collect or transmit any data to remote servers or over the Internet. All information entered by the user remains exclusively on the device where the application is installed.
